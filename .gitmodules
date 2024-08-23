@@ -1,0 +1,6 @@
+[submodule "Assets/SaccFlightAndVehicles"]
+	path = Assets/SaccFlightAndVehicles
+	url = https://github.com/VirtualAviationJapan/SaccFlightAndVehicles.git
+[submodule "Submodule/UdonRadioCommunications-VSS"]
+	path = Submodule/UdonRadioCommunications-VSS
+	url = https://github.com/VirtualAviationJapan/UdonRadioCommunications-VSS
