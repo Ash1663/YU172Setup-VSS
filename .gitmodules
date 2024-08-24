@@ -4,3 +4,6 @@
 [submodule "Submodule/UdonRadioCommunications-VSS"]
 	path = Submodule/UdonRadioCommunications-VSS
 	url = https://github.com/VirtualAviationJapan/UdonRadioCommunications-VSS.git
+[submodule "Submodule/YuxiFlightInstrumentsforSF"]
+	path = Submodule/YuxiFlightInstrumentsforSF
+	url = https://github.com/Heriyadi235/YuxiFlightInstrumentsforSF.git
