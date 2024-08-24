@@ -7,3 +7,9 @@ url=https://github.com/esnya/SaccFlightAndVehicles.git
 [submodule "Packages/Submodule/YuxiFlightInstrumentsforSF"]
 	path = Packages/Submodule/YuxiFlightInstrumentsforSF
 	url = https://github.com/Heriyadi235/YuxiFlightInstrumentsforSF.git
+[submodule "Packages/submodule/YuxiFlightInstrumentsforSF"]
+	path = Packages/submodule/YuxiFlightInstrumentsforSF
+	url = https://github.com/Heriyadi235/YuxiFlightInstrumentsforSF
+[submodule "Packages/submodule/UdonRadioCommunications-VSS"]
+	path = Packages/submodule/UdonRadioCommunications-VSS
+	url = https://github.com/VirtualAviationJapan/UdonRadioCommunications-VSS.git
