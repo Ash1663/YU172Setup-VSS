@@ -184,6 +184,18 @@
         "com.unity.inputsystem": "1.2.0"
       }
     },
+    "com.yuxiaviation.yuxiflightinstruments": {
+      "version": "file:submodule/YuxiFlightInstrumentsforSF/Packages/com.yuxiaviation.yuxiflightinstruments",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "esnya-sf-addons": {
+      "version": "file:submodule/EsnyaSFAddons-VSS",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
