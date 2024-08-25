@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "com.nekometer.esnya.udon-radio-communications": {
-      "version": "file:../Submodule/UdonRadioCommunications-VSS/Packages/com.nekometer.esnya.udon-radio-communications",
+      "version": "file:submodule/UdonRadioCommunications-VSS/Packages/com.nekometer.esnya.udon-radio-communications",
       "depth": 0,
       "source": "local",
       "dependencies": {}
     },
     "com.nekometer.esnya.udon-radio-communications-sf": {
-      "version": "file:../Submodule/UdonRadioCommunications-VSS/Packages/com.nekometer.esnya.udon-radio-communications-sf",
+      "version": "file:submodule/UdonRadioCommunications-VSS/Packages/com.nekometer.esnya.udon-radio-communications-sf",
       "depth": 0,
       "source": "local",
       "dependencies": {}
