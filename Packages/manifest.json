@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.nekometer.esnya.udon-radio-communications": "file:../Submodule/UdonRadioCommunications-VSS/Packages/com.nekometer.esnya.udon-radio-communications",
-    "com.nekometer.esnya.udon-radio-communications-sf": "file:../Submodule/UdonRadioCommunications-VSS/Packages/com.nekometer.esnya.udon-radio-communications-sf",
+    "com.nekometer.esnya.udon-radio-communications": "file:submodule/UdonRadioCommunications-VSS/Packages/com.nekometer.esnya.udon-radio-communications",
+    "com.nekometer.esnya.udon-radio-communications-sf": "file:submodule/UdonRadioCommunications-VSS/Packages/com.nekometer.esnya.udon-radio-communications-sf",
     "com.unity.collab-proxy": "1.6.0",
     "com.unity.ide.rider": "1.2.1",
     "com.unity.ide.visualstudio": "2.0.9",
