@@ -190,10 +190,10 @@
       "source": "local",
       "dependencies": {}
     },
-    "esnya-sf-addons": {
-      "version": "file:submodule/EsnyaSFAddons-VSS",
+    "jp.lilxyzw.avatar-utils": {
+      "version": "file:jp.lilxyzw.avatar-utils",
       "depth": 0,
-      "source": "local",
+      "source": "embedded",
       "dependencies": {}
     },
     "com.unity.modules.ai": {
