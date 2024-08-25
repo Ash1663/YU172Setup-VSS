@@ -13,6 +13,3 @@ url=https://github.com/esnya/SaccFlightAndVehicles.git
 [submodule "Packages/submodule/UdonRadioCommunications-VSS"]
 	path = Packages/submodule/UdonRadioCommunications-VSS
 	url = https://github.com/VirtualAviationJapan/UdonRadioCommunications-VSS.git
-[submodule "Packages/submodule/EsnyaSFAddons-VSS"]
-	path = Packages/submodule/EsnyaSFAddons-VSS
-	url = https://github.com/VirtualAviationJapan/EsnyaSFAddons-VSS.git
