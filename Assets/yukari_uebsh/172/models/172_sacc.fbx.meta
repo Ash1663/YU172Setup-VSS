@@ -116,6 +116,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: LOW_VACUUM
+    second: {fileID: 2100000, guid: a09c9e19865cbdd4fa750a1f9cfacf05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOW_VOLTAGE
+    second: {fileID: 2100000, guid: a4afc6f6a94d7824c9eac9d50543697e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: card
     second: {fileID: 2100000, guid: b05aec527d4ad98438ba7a3ea5e8bbb4, type: 2}
   - first:
